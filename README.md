@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit321&label=Profile%20views&color=0e75b6&style=flat" alt="arijit321" /> </p>
 
-- 🌱 I’m currently learning **JDBC**
-
-- 👨‍💻 All of my projects are available at [https://arijitbhatta.netlify.app](https://arijitbhatta.netlify.app)
-
+  Hello, Welcome to my profile
+- I am Arijit Bhatta
 - 💬 Ask me about **JAVA**
-
 - 📫 How to reach me **arijitbhatta123@gmail.com**
+- 📄 Here is mine <a href="https://drive.google.com/file/d/1PKH6X0d-UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing](https://drive.google.com/file/d/1PKH6X0d-  UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing">My Resume</a>
+- Want to know about mine work <a href="Arijit321.github.io">My Portfolio</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PKH6X0d-UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing](https://drive.google.com/file/d/1PKH6X0d-UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
