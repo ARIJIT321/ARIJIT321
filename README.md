@@ -10,7 +10,7 @@
 - 💬 Ask me about **JAVA**
 - 📫 How to reach me **arijitbhatta123@gmail.com**
 - 📄 Here is mine <a href="https://drive.google.com/file/d/1PKH6X0d-UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing](https://drive.google.com/file/d/1PKH6X0d-  UWrMnUeR_OcYN2N6Jo3rfmWd/view?usp=sharing">My Resume</a>
-- Want to know about mine work <a href="Arijit321.github.io">My Portfolio</a>
+- Want to know about mine work <a href="https://arijit321.github.io/">My Portfolio</a>
 
 
 <h3 align="left">Connect with me:</h3>
